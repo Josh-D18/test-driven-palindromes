@@ -6,4 +6,8 @@ module.exports = {
   env: {
     node: true,
   },
+  rules: {
+    quotes: ["error", "double", { avoidEscape: true }],
+    "comma-dangle": ["error", "always-multiline"],
+  },
 };
