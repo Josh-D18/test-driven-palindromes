@@ -1,0 +1,14 @@
+{
+  "name": "test-driven-palindromes",
+  "version": "1.0.0",
+  "description": "palindromes",
+  "main": "palindromes.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.3.1"
+  }
+}
